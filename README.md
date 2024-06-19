@@ -3,7 +3,7 @@
 This is comprehensive web scrapping program integrated with NLP(Transformer) based website classifier.
 The model was trained with 1400 instances of website metadata. It takes metadata from a website and categorize the website based on it's sentiment.
 
-Model Training was carried out in Google Colab. Further the model is integrated into the 'scrapper.py' to classify websites based their sentiments.
+Model Training was carried out in Google Colab. Further the model is integrated into the 'scrapper.py' to classify websites based on their sentiments.
 
 
 ## Setup Instructions
